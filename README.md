@@ -3,7 +3,7 @@
 🎧 Spotify Songs Dashboard — Power BI
 📊 Overview
 
-I’m excited to share my new Power BI Dashboard analyzing Spotify song data!
+Power BI Dashboard analyzing Spotify song data!
 This project explores over 780 songs and 330+ artists, uncovering key trends and insights from the music world through data visualization and analysis.
 
 🔍 Key Insights
